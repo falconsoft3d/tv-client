@@ -27,7 +27,6 @@ body{
 .box-2{
 	border-top: 4px solid #ca0a1c;
 	background-color: #353433;
-	height: 180px;
 	bottom: 0px;
 	width: 1300px;
 }
@@ -48,10 +47,12 @@ body{
 .box-2 .text-01{
 	color: white;
 	max-width: 80%;
-	font-size: 2.5rem;
+	font-size: 2.0rem;
 	margin-left: 13%;
-	padding-top: 3px
+	margin-top: 0px;
 }
+
+
 
 .box-2 p{
 	line-height: 0.4;
