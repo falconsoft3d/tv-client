@@ -1,0 +1,122 @@
+body{
+	background-color: #22FD25;
+}
+
+.box-1{
+	background-color: #22FD25;
+    height: 720px;
+    width: 1300px;
+}
+
+.box-2{
+	border-top: 4px solid #ca0a1c;
+	background-color: #353433;
+	height: 180px;
+	bottom: 0px;
+	width: 1300px;
+}
+
+
+.box-2 .logo{
+	max-width: 6%;
+
+}
+
+.box-2 .logo img{
+	max-width: 100%;
+    margin-left: 30%;
+	margin-top: 12%;
+	float: left;
+}
+
+.box-2 .text-01{
+	color: white;
+	max-width: 80%;
+	font-size: 2.5rem;
+	margin-left: 13%;
+	padding-top: 3px;
+}
+
+.box-2 p{
+	line-height: 0.4;
+}
+
+.box-2 .text-02 {
+  float: left;
+  width: 50%;
+  right: 0px;
+  text-align: right;
+  color: white;
+  font-size: 1.5rem;
+}
+
+
+.inf{
+	background-color: #0a1320;
+	height: 90px;
+	padding-left: 20px;
+}
+
+.inf .yesorno{
+	width: 10%;
+	color: white;
+    font-size: 2.0rem;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.barra{
+	background-color: #cac5c8;
+	width: 74%;
+	float: left;
+	margin-top: 17px;
+	height: 60%;
+}
+
+.sub-barra{
+	width: 50%;
+	float: left;
+}
+
+
+.barra-left{
+	text-align: right;
+}
+
+.barra-right{
+	text-align: left;
+}
+
+
+.txt-por{
+	margin-left: 20px;
+	margin-right: 20px;
+    color: white;
+    font-size: 1.7rem;
+    top: 0px;
+}
+
+.progress{
+	background-color: red;
+	height: 54px;
+	display: inline-block;
+}
+
+.progress-left{
+	width: 30%;
+	right: 0px;
+	border-left: 4px solid #ca0a1c;
+}
+
+
+.progress-right{
+	width: 70%;
+	left: 0px;
+	background-color: #495def;
+	border-right: 4px solid #0a1320;
+	border-left: 4px solid #cac5c8;
+}
+
+
+
